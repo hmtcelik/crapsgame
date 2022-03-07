@@ -13,6 +13,5 @@
 ```c
 // must includes:
 #include<stdlib.h> // for rand()
-#include<time.h>  // for srand()
+#include<time.h>  // for time() (in srand(time(NULL));)
 ```
-Contact: abhmtcelik@gmail.com
