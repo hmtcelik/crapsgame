@@ -12,6 +12,6 @@
 ### Includes
 ```c
 // must includes:
-#include<stdlib.h> // for rand()
+#include<stdlib.h>
 #include<time.h>  // for time() (in srand(time(NULL));)
 ```
